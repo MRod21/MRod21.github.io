@@ -1,11 +1,11 @@
 # Site settings
 author: Mario Rodriguez
-title: 
+title: My Life in Code
 header-img: img/home-bg.png
 email: mario.rodriguez35@yahoo.com
 copyright_name: Mario Rodriguez
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A Stay-at-Home Dad Turned Programmer
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  MRod21
